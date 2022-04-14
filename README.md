@@ -1,2 +1,2 @@
-# MySQL-Practice
-Personal Projects for MySQL Practice
+# Git Test
+The space for testing git
