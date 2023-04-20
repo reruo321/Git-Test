@@ -19,5 +19,6 @@ Both copy Git repository but they are different.
     git fetch
     git checkout origin/main -- .\myProject\README.md
 
+## gh
 ## List of My Testing Environments
-1. Ubuntu 22.04
+* Ubuntu 22.04 - 2023. 04. 20
